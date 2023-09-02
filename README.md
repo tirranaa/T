@@ -1,5 +1,5 @@
 # Redirect to Tor Page!
-### RedirectURL=http://ukkzjkghg7ghy65azpuubealbizd5hzfxnyev7qkzwbpz7w7742wndqd.onion/tirranaa/t
+### RedirectURL=https://git.ivailoftpmps5cdqpwapufyjs6x6k5wmivpzkyxn3j57brz6s754s5id.onion/tirranaa/t
 # Support on all Github Platforms and all used names as identificators for source host locations for all users, are all Permanently terminated !
 
 ## Due to Github being owned by Microsoft and the Pentagon with Microsoft, Military contracts signed as active, sections conserning Github !
